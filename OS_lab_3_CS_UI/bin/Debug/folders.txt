@@ -1,0 +1,6 @@
+$RECYCLE.BIN
+Games
+msdownld.tmp
+Programs
+SymCache
+System Volume Information

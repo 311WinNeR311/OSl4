@@ -1,0 +1,4 @@
+Local Disk (C) - Shortcut.lnk
+Local Disk (E) - Shortcut (2).lnk
+Local Disk (E) - Shortcut.lnk
+msdia80.dll
